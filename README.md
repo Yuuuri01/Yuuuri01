@@ -28,7 +28,7 @@
 <table width="200%" align="center">
 <tr>
 <td align="center">
-<a href="http://www.fiverr.com/s/DBejgGA">
+<a href="http://www.verr.com/s/DBejgGA">
 <strong>Visit my fiverr</strong>
 <br />
 <br />
