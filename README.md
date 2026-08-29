@@ -25,18 +25,29 @@
 ### 👨‍💻 About Me
 
 ```python
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 
 @dataclass
-class Developer:
-    school: str = "1337 (42 Network)"
+class EngineerProfile:
+    name: str = "YOURI"
+    email: str = "biniaminezerori@gmail.com"
+    school: str = "1337 School (42 Network)"
+    role: str = "Software Engineering Student"
     focus_areas: list[str] = field(default_factory=lambda: [
-        "Low-Level Systems", "Reverse Engineering", "Binary Exploitation"
+        "Low-Level Systems",
+        "Reverse Engineering",
+        "Binary Exploitation"
     ])
+    languages: list[str] = field(default_factory=lambda: ["C", "C++", "Python", "Assembly x86_64", "Bash"])
+    github: str = "[github.com/YOUR-GITHUB-USERNAME](https://github.com/YOUR-GITHUB-USERNAME)"
+    linkedin: str = "[linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/YOUR-LINKEDIN)"
     mindset: str = "Understanding how the machine works under the hood."
 
-    def get_status(self) -> str:
-        return "Always learning, building, and breaking binaries."
+    def execute(self) -> None:
+        print(f"Building system software & analyzing binaries as {self.name}...")
+
+profile = EngineerProfile()
+profile.execute()
 ```
   <!-------------
     <br>
