@@ -15,8 +15,9 @@
   <br />
 
   [![GitHub Stars](https://img.shields.io/github/stars/YOUR-GITHUB-USERNAME?style=for-the-badge&logo=github&color=0969da)](https://github.com/YOUR-GITHUB-USERNAME)
-  [![LinkedIn](https://www.linkedin.com/in/hamza-mossaid-41616738b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-  [![LeetCode](https://leetcode.com/u/QXQoxqZxaf/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamza-mossaid-41616738b)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/QXQoxqZxaf/)
+[![Codewars](https://img.shields.io/badge/Codewars-Profile-AD2C27?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/youri-cohen)
 
 </div>
 
