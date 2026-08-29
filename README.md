@@ -31,7 +31,7 @@ from dataclasses import dataclass, field
 @dataclass
 class EngineerProfile:
     name: str = "YOURI"
-    email: str = "biniaminezerori@gmail.com"
+    email: str = "*******@gmail.com"
     school: str = "1337 School (42 Network)"
     role: str = "Software Engineering Student"
     focus_areas: list[str] = field(default_factory=lambda: [
