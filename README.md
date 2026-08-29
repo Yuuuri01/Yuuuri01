@@ -144,7 +144,7 @@ profile.execute()
 
 <!----------------------------------------------------------------------------------------------------------------------->
 <!----------------------------------------------------->
-<img src='https://i.pinimg.com/originals/e3/fe/2a/e3fe2a464732cf99eaf436513d39dc7e.gif' alt='Alt what' height='400' width='600'>
+<img src='https://i.pinimg.com/originals/e3/fe/2a/e3fe2a464732cf99eaf436513d39dc7e.gif' alt='Alt what' height='600' width='600'>
 
 
 
