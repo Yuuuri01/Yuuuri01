@@ -20,7 +20,11 @@
 [![Codewars](https://img.shields.io/badge/Codewars-Profile-AD2C27?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/youri-cohen)
 
 </div>
-[![Grademe profile card for @yuuuri01](https://grademe.io/api/cards/a00019ff-23e5-416e-a1ea-1b55f298ee39.svg)](https://grademe.io/app/user/bf2bedf3-ced3-49e0-b52f-6a37334d5610)
+<div align="center">
+  <a href="https://grademe.io/app/user/bf2bedf3-ced3-49e0-b52f-6a37334d5610">
+    <img src="https://grademe.io/api/cards/a00019ff-23e5-416e-a1ea-1b55f298ee39.svg" alt="Grademe profile card for @yuuuri01" />
+  </a>
+</div>
 
 ---
 
