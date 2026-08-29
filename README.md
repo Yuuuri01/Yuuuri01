@@ -9,15 +9,14 @@
   <div align="center">
 
   # 💻 Hi, I'm [YOURI]
-  ### **Software Engineering Student @ 1337 School (42 Network)**
-
+  <!--### **Software Engineering Student @ 1337 School (42 Network)**-->
   *(C / C++ / Systems & Binary Exploitation)*
 
   <br />
 
   [![GitHub Stars](https://img.shields.io/github/stars/YOUR-GITHUB-USERNAME?style=for-the-badge&logo=github&color=0969da)](https://github.com/YOUR-GITHUB-USERNAME)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR-LEETCODE)
+  [![LinkedIn](https://www.linkedin.com/in/hamza-mossaid-41616738b?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+  [![LeetCode](https://leetcode.com/u/QXQoxqZxaf/)
 
 </div>
 
@@ -25,12 +24,19 @@
 
 ### 👨‍💻 About Me
 
-```c
-typedef struct s_developer {
-    char  *school;      /* 1337 (42 Network) */
-    char  *focus[];     /* Low-Level, Security, Systems */
-    char  *mindset;     /* Understanding what happens under the hood */
-} t_developer;
+```python
+from dataclasses import dataclass
+
+@dataclass
+class Developer:
+    school: str = "1337 (42 Network)"
+    focus_areas: list[str] = field(default_factory=lambda: [
+        "Low-Level Systems", "Reverse Engineering", "Binary Exploitation"
+    ])
+    mindset: str = "Understanding how the machine works under the hood."
+
+    def get_status(self) -> str:
+        return "Always learning, building, and breaking binaries."
 ```
   <!-------------
     <br>
