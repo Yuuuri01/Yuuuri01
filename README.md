@@ -98,10 +98,6 @@ profile.execute()
 </td>
 </tr>
 </table>
-
-<div align="center">
-<a href="https://github.com/issues/assigned"><img src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/guestbook.svg"></a> 
-</div>
 <!---------------------------------------------------------------------------------------------------------------------->
 
 <p align="center">
