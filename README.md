@@ -31,6 +31,7 @@ typedef struct s_developer {
     char  *focus[];     /* Low-Level, Security, Systems */
     char  *mindset;     /* Understanding what happens under the hood */
 } t_developer;
+```
   <!-------------
     <br>
     <img align="center"src = "https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" width = "950">
