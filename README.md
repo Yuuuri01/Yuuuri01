@@ -6,6 +6,31 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:2b2b2b&height=200&section=header&text=1337/42%20%E2%9C%A8&fontSize=50&fontColor=00ff9f&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20and%20GNU/Linux%20Enthusiast&descSize=16&descAlignY=55" width="100%"/>
+  <div align="center">
+
+  # 💻 Hi, I'm [YOURI]
+  ### **Software Engineering Student @ 1337 School (42 Network)**
+
+  *(C / C++ / Systems & Binary Exploitation)*
+
+  <br />
+
+  [![GitHub Stars](https://img.shields.io/github/stars/YOUR-GITHUB-USERNAME?style=for-the-badge&logo=github&color=0969da)](https://github.com/YOUR-GITHUB-USERNAME)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINKEDIN)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR-LEETCODE)
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+```c
+typedef struct s_developer {
+    char  *school;      /* 1337 (42 Network) */
+    char  *focus[];     /* Low-Level, Security, Systems */
+    char  *mindset;     /* Understanding what happens under the hood */
+} t_developer;
   <!-------------
     <br>
     <img align="center"src = "https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" width = "950">
