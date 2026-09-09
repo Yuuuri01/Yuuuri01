@@ -6,8 +6,7 @@
   <!---
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
   ---->
-  
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d0d0d&height=180&section=header&text=Pwn%20&%20Low-Level&fontSize=42&fontColor=ff0033&animation=fadeIn&fontAlignY=35&desc=Binary%20Exploitation%20//%20Reverse%20Engineering%20//  %20Assembly&descSize=14&descAlignY=65&descColor=8b0000" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:2b2b2b&height=200&section=header&text=Reverse%20Engineering&fontSize=42&fontColor=ff0000&animation=twinkling&fontAlignY=32&desc=Low-Level%20//%20Assembly%20//%20Binary&descSize=16&descAlignY=55" width="100%"/>
 <div align="center">
   <p align="center">
   <img src="https://github.com/Yuuuri01/READMENOW/blob/main/42-network-id-card-hamza.jpg" alt="YOURI-01 Profile">
