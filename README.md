@@ -8,7 +8,7 @@
   ---->
   
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d0d0d&height=180&section=header&text=Pwn%20&%20Low-Level&fontSize=42&fontColor=ff0033&animation=fadeIn&fontAlignY=35&desc=Binary%20Exploitation%20//%20Reverse%20Engineering%20//  %20Assembly&descSize=14&descAlignY=65&descColor=8b0000" width="100%"/>
-   <div align="center">
+<div align="center">
   <p align="center">
   <img src="https://github.com/Yuuuri01/READMENOW/blob/main/42-network-id-card-hamza.jpg" alt="YOURI-01 Profile">
 </p>
