@@ -67,7 +67,7 @@ profile.execute()
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="800">
 </p>
 
-<!-- Social -->
+<!----
 <table width="200%" align="center">
 <tr>
 <td align="center">
@@ -91,7 +91,7 @@ profile.execute()
 <strong>Listen to cool music</strong>
 <br />
 <br />
-
+------>
 
 <p>
 <img height="100" alt="Music" src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/music.gif"> 
