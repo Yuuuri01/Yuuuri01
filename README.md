@@ -78,14 +78,12 @@ profile.execute()
 <br />
 <br />
 
---->
+
 <p>
 
 <img alt="Globe" height="80" src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/globe.gif">
 </a>
 </p>
-
-<!-----
 </td>
 
 
@@ -103,7 +101,7 @@ profile.execute()
 </td>
 </tr>
 </table>
-</p> -->
+</p>
 <!---------------------------------------------------------------------------------------------------------------------->
 
   <p align="center">
