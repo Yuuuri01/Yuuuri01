@@ -93,10 +93,10 @@ profile.execute()
 <br />
 ------>
 
-<p>
+<!-- <p>
 <img height="100" alt="Music" src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/music.gif"> 
 </a>
-</p>
+</p> -->
 
 </td>
 </tr>
