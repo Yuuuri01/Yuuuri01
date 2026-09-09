@@ -7,8 +7,9 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:2b2b2b&height=200&section=header&text=1337/42%20%E2%9C%A8&fontSize=50&fontColor=00ff9f&animation=twinkling&fontAlignY=32&desc=Cyber%20Security%20and%20GNU/Linux%20Enthusiast&descSize=16&descAlignY=55" width="100%"/>
   <div align="center">
-  # 💻 Hi, I'm [YOURI]
+    💻 Hi, I'm [YOURI]
     <br />
+  
   <!--### **Software Engineering Student @ 1337 School (42 Network)**-->
   *(C / C++ / Systems & Binary Exploitation)*
   <br />
