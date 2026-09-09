@@ -62,7 +62,6 @@ profile.execute()
     <img align="center"src = "https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" width = "950">
     <br>
     -->
-
   <p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="800">
 </p>
@@ -96,11 +95,11 @@ profile.execute()
 <!-- <p>
 <img height="100" alt="Music" src="https://github.com/ASTR-dafiicult/GITHUB_action/blob/main/github/images/music.gif"> 
 </a>
-</p> -->
 
 </td>
 </tr>
 </table>
+</p> -->
 <!---------------------------------------------------------------------------------------------------------------------->
 
   <p align="center">
