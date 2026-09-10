@@ -39,7 +39,7 @@ class EngineerProfile:
     name: str = "YOURI"
     email: str = "*******@gmail.com"
     school: str = "1337 School (42 Network)"
-    role: str = "Software Engineering Student"
+    role: str = "Software Engineering Student at 1337 (42 Network)"
     focus_areas: list[str] = field(default_factory=lambda: [
         "Low-Level Systems",
         "Reverse Engineering",
